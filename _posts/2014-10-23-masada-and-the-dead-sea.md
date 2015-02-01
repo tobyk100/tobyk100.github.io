@@ -6,7 +6,11 @@ title: Masada and the Dead Sea
 ---
 Yesterday we began The Israel Tech Fellowship -- a 10 month intensive program focusing on Big Data and Cyber Security. Most of us had already been in Israel a few days, but we filled our time by shopping for the bare necessities, which for me means instant coffee. We met in front of the dorms, overnight bags on shoulders, and walked South across the Yarkon river to meet in a youth hostel which hosted our orientation.
 
-During the orientation we met our Madricha (counselor) and our program leaders: Oren and Dana. Both Oren and Dana served as Majors in Shemoneh Mataim (8200), the intelligence corps of the Israel Defence Forces. A head count confirmed six french, eight Americans, and two Israelis participating in the fellowship. One of the Israelis, Yaron, also served in 8200 (at a lower rank) and the other, Cami, is from Argentina and recently immigrated to Israel.
+During the orientation we met our Madricha (counselor) and our program leaders:
+Oren and Dana. Both Oren and Dana served as Majors in Israel Defence Forces. A
+head count confirmed six french, eight Americans, and two Israelis
+participating in the fellowship. One of the Israelis, Yaron, who served in 8200
+and the other, Cami, is from Argentina and recently immigrated to Israel.
 
 ![]({{ site.baseurl }}/images/IMG_2201-1.jpg)
 

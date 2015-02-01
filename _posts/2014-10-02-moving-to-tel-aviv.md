@@ -12,7 +12,9 @@ government, which already helps pays for Jews to come and hookup in Israel
 a.k.a. Birthright, would pay for some heebs to come and contribute and/or
 benefit from the tech scene.
 
-The program will focus on Big Data and Web Security, both really hot issues in tech as our personal decisions are put into the hands of algorithms and the NSA spies on everything we do. Since I have already squandered my shot at a high level security clearance (another story) I am destined to hack on the side of good. Damn, how I wanted to work for the empire!
+The program will focus on Big Data and Web Security, both really hot issues in
+tech as our personal decisions are put into the hands of algorithms and the NSA
+spies on everything we do.
 
 For my part, I hope to eat lots of falafel, soak up the mediterranian breeze, and start a sandal collection. I'd also like to surf, rock climb, and backpack. I guess at some point I will write some code.
 
